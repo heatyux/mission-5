@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var fs = require('fs');        //引用fs模块
 
 var dirName = process.argv[2]; //获取目录名称
